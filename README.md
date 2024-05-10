@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Senior Blockchain developer&hanimation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 ## About
 
